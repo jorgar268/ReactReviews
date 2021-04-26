@@ -4,9 +4,9 @@
 
 ### freeCodeCamp.org React course :mag:
 
-### Making use of React Icons instead of FontAwesome
+### (Making use of React Icons)
 
-### Simple use, click on the arrowa to iterate all de reviews or click on the button to read a random one!
+### Simple use, click on the arrow :arrow_right: to iterate all de reviews :memo: or click on the button to read a random one! :cool:
 
 ![Preview](https://res.cloudinary.com/xikilikuada/image/upload/v1619441338/reviewsreact_jmjgnu.png)
 ![Preview](https://res.cloudinary.com/xikilikuada/image/upload/v1619441338/review_jtv57t.png)
